@@ -14,5 +14,5 @@ I enjoyed these days, you can as well. To register for next free 7 days boolcamp
 or follow SHAPLAI on 
   <li><a href="https linkedin.com/company/shapeai">Linkedln</a>
   <li><a href= "http://www.instagram.com/shape.ai/?hl=en" Instagram </a>
-    <li> <a href="https://www.youtube.com/channel/UCTUVDLTW9meuDXWcbmISPdA">YouTube </a> 
+    <li> <a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube </a> 
       <li> <a href="https://github.com/shapeai"> Gitlhub  </a>
